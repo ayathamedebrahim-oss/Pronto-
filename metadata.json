@@ -1,0 +1,6 @@
+{
+  "name": "Pronto Fashion - Wholesale Apparel",
+  "description": "B2B wholesale fashion and apparel portal for clothing retailers and boutiques with tiered pricing, instant WhatsApp ordering, and interactive order quote calculator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
